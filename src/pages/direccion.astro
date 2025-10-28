@@ -1,0 +1,85 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+---
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <BaseHead
+      title={`Dirección | ${SITE_TITLE}`}
+      description="Página de la Dirección de Atención y Orientación al Ciudadano del Consejo Municipal"
+    />
+    <style>
+      main {
+        width: 960px;
+        margin: 2rem auto;
+        padding: 2rem;
+        background: rgb(var(--gray-light));
+        border-radius: 12px;
+        box-shadow: var(--box-shadow);
+      }
+
+      h1 {
+        color: rgb(var(--accent));
+        text-align: center;
+        margin-bottom: 1rem;
+      }
+
+      p {
+        color: rgb(var(--black));
+        line-height: 1.6;
+        text-align: justify;
+      }
+
+      section {
+        margin-top: 2rem;
+      }
+
+      section h2 {
+        color: rgb(var(--accent));
+        margin-bottom: 0.5rem;
+      }
+    </style>
+  </head>
+
+  <body>
+    <Header />
+
+    <main>
+      <h1>Dirección de Atención y Orientación al Ciudadano</h1>
+      <p>
+        Bienvenido a la sección de <strong>Dirección</strong> del Consejo Municipal. Aquí podrás encontrar información sobre
+        los servicios de atención al ciudadano, orientación institucional y enlaces de contacto directo con nuestras oficinas.
+      </p>
+
+      <section>
+        <h2>📍 Ubicación</h2>
+        <p>
+          Nuestras oficinas están ubicadas en la sede principal del Consejo Municipal, donde brindamos atención personalizada a
+          los ciudadanos de la comunidad.
+        </p>
+      </section>
+
+      <section>
+        <h2>🕐 Horarios de Atención</h2>
+        <p>
+          Lunes a Viernes, de 8:00 a.m. a 4:00 p.m.  
+          También puedes comunicarte a través de los canales oficiales de atención digital.
+        </p>
+      </section>
+
+      <section>
+        <h2>📞 Contacto</h2>
+        <p>
+          Teléfono: (0212) 000-0000  
+          Correo electrónico: <a href="mailto:atencion@consejomunicipal.gob.ve">atencion@consejomunicipal.gob.ve</a>
+        </p>
+      </section>
+    </main>
+
+    <Footer />
+  </body>
+</html>
