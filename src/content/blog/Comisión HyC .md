@@ -9,6 +9,8 @@ Conoce de las materias referidas a los bienes, ingresos y obligaciones que forma
 
 Prueba 
 
+hola 
+
 Holaa
 
 Conoce de las materias referidas a los bienes, ingresos y obligaciones que forman el activo y el pasivo de la hacienda pública municipal, así como de las rentas cuya administración corresponde al Municipio. Vigila, controla y fiscaliza el uso adecuado, por parte de la administración, de los ingresos y/o activos percibidos a través del situado, impuestos, gravámenes y deudas.

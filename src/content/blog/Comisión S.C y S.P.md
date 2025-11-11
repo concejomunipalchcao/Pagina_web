@@ -3,7 +3,7 @@ title: 'Comisión de Seguridad Ciudadana y Servicios Públicos'
 description: 'Promueve la integración social a través de la cultura, el arte y el deporte en el municipio de Chacao'
 pubDate: 'Nov 04 2025'
 slug: 'comision-sc-sp'
-heroImage: '../../assets/queen.jpg'
+heroImage: '../../assets/sp.jpg'
 ---
 COMISIÓN DE SEGURIDAD CIUDADANA Y SERVICIOS PÚBLICOS
 
