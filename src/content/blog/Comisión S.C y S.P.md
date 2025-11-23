@@ -5,8 +5,6 @@ pubDate: 'Nov 04 2025'
 slug: 'comision-sc-sp'
 heroImage: '../../assets/sp.jpg'
 ---
-COMISIÓN DE SEGURIDAD CIUDADANA Y SERVICIOS PÚBLICOS
-
 
 Legisla en todo lo relacionado en materia de seguridad ciudadana, prevención, coordinación, control, dirección y planificación eficazmente de las acciones, programas y proyectos del municipio Chacao y promueve la participación ciudadana para garantizar el estado de bienestar y paz de la comunidad. Promueve, legisla e impulsa ante el Cuerpo Edilicio la creación de ordenanzas vinculantes en materia de prevención, atención, sensibilización y concientización del delito, seguridad ciudadana y servicios públicos. Legisla, gestiona y promueve el mejoramiento, conservación y supervisión de los servicios públicos y cualquier otra actividad relacionada en esta materia. 
 
@@ -18,3 +16,5 @@ Concejal: Danny González
 @chacaoesseguridad
 </a>
 
+<a href="mailto:atencion@consejomunicipal.gob.ve">chacaoseguridad2022@gmail.com
+</a>

@@ -4,7 +4,7 @@ description: 'Promueve la integración social a través de la cultura, el arte y
 pubDate: 'Nov 04 2025'
 heroImage: '../../assets/lanadelrey.jpg'
 ---
-COMISIÓN DE GESTIÓN URBANA Y TURISMO
+
 
 Conoce y ejerce sus competencias en materia urbanística con base en las Ordenanzas vigentes en materia de arquitectura civil y construcción, zonificación, usos, densidad, entre otros aspectos; afectaciones y desafectaciones por utilidad pública, catastro municipal y nomenclatura urbana; enajenación de ejidos; así como, los planes municipales de desarrollo urbano, entre los cuales están el Plan de Desarrollo Urbano Local.
 
