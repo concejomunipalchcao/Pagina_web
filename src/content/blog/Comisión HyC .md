@@ -19,7 +19,7 @@ CONCEJAL: Máximo Sánchez
  @chacaochc
 </a>
 
-<a href="mailto:atencion@consejomunicipal.gob.ve">Haciendaycontraloriachacao@gmail.com
+<a href="mailto:atencion@consejomunicipal.gob.ve">Haciendaycontraloriachacao@gmail.com>
 </a>
 
 

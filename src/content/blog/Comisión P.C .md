@@ -17,12 +17,11 @@ Propone y desarrolla instrumentos legislativos en materia de participación ciud
 
 Concejal: Yolanda Rivas
 
-@chacao.cpc
 
 <a href="https://www.instagram.com/daoc_concejochacao" target="_blank" rel="noopener noreferrer">
 @chacaoesseguridad
 </a>
 
-<a href="mailto:atencion@consejomunicipal.gob.ve">Chacao.participacionciudadana@gmail.com
+<a href="mailto:atencion@consejomunicipal.gob.ve"> Chacao.participacionciudadana@gmail.com
 </a>
 
