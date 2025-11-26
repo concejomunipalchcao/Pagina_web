@@ -120,38 +120,46 @@ p.subtitle {
 }
 
 /* --- Optimización móvil --- */
-/* --- Optimización móvil mejorada --- */
 @media (max-width: 600px) {
 
-  /* Ajusta el grid a una columna más cómoda */
+  /* Corrección del centrado del contenedor */
+  main {
+    max-width: 100% !important;
+    padding-left: 0.8rem;
+    padding-right: 0.8rem;
+  }
+
+  /* Ajusta el grid a una sola columna */
   .news-grid {
     grid-template-columns: 1fr;
     gap: 1.8rem;
+    width: 100%;
   }
 
-  /* Tarjeta más compacta y legible */
+  /* Tarjeta más compacta y centrada */
   .card {
+    width: 100%;
     max-width: 95vw;
     margin: 0 auto;
     border-radius: 16px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.05);
   }
 
-  /* Imagen más baja → no ocupa toda la pantalla */
+  /* Imagen más baja → no tapa la pantalla */
   .card img {
-    aspect-ratio: 4 / 3;      /* antes 16/9 → esto mejora lectura */
+    aspect-ratio: 4 / 3;
     object-fit: cover;
     border-top-left-radius: 16px;
     border-top-right-radius: 16px;
   }
 
-  /* Texto más grande para lectura cómoda */
+  /* Texto más grande para lectura */
   .card-content {
     padding: 1.3rem;
   }
 
   .card-content h2 {
-    font-size: 1.35rem;       /* MÁS grande */
+    font-size: 1.35rem;
     line-height: 1.35;
   }
 
@@ -163,14 +171,16 @@ p.subtitle {
     font-size: 0.95rem;
   }
 
-  /* Ajustes del título general */
+  /* Ajustes del título superior */
   h1 {
     font-size: 2rem;
   }
+
   .subtitle {
     font-size: 1.05rem;
     margin-left: 1rem;
- }
+    margin-right: 1rem;
+  }
 }
     </style>
   </head>
